@@ -1,7 +1,7 @@
 <!-- Gerard Zhou GitHub Stats Summary -->
 <div align="center" style="font-family: 'Segoe UI', sans-serif; background:#0d1117; padding: 30px; border-radius: 15px; color: #c9d1d9; max-width: 750px; margin: auto;">
 
-  <h2 style="color: #58a6ff;">Hi! I'm Gerard Zhou</h2>
+<h1 style="color: #58a6ff; font-size: 48px; font-weight: bold;">👋 Hi! I'm Gerard Zhou</h1>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 40px; margin: 40px 0; font-family: Arial, sans-serif;">
 
