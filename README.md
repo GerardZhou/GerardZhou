@@ -27,7 +27,6 @@
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&logoWidth=30" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&logoWidth=30" />
   </p>
 
   <!-- Tools & Platforms -->
