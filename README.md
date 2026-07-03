@@ -27,7 +27,7 @@ I build software across cloud infrastructure, Kubernetes platforms, backend APIs
 | **Technologies** | Kubernetes · OpenShift · Terraform · Helm · PostgreSQL · MongoDB · REST APIs · AWS · Redis · Cloudflare |
 | **Developer tools** | Linux · Docker · Operator SDK · OLM · Git/GitHub · Bitbucket · Jira · Postman · Figma · Maven |
 
-## Selected engineering
+## Personal Projects
 
 | Project | Engineering focus | Stack | Links |
 |---|---|---|---|
@@ -36,7 +36,7 @@ I build software across cloud infrastructure, Kubernetes platforms, backend APIs
 | **STR-SUMO** | Traffic-simulation testbed for evaluating routing policies and deadline misses. | Python · SUMO · Dijkstra's algorithm · Q-learning | [Repository](https://github.com/GerardZhou/UH-Research-SUMO) |
 | **CNN Image Classifier** | Convolutional model for binary image classification and ML experimentation. | Python · TensorFlow · Jupyter | [Repository](https://github.com/GerardZhou/CNNImageClassifier) |
 | **Real-Time Object Detection** | Webcam object-detection prototype built to explore computer-vision pipelines. | Python · OpenCV | [Repository](https://github.com/GerardZhou/Object-detector) |
-| **Systems Portfolio** | Evidence-first engineering portfolio with an interactive queue-pressure model. | TypeScript · React · deterministic simulation | [Source](https://github.com/GerardZhou/GerardZhou.github.io) · [Live](https://gerardzhou.github.io) |
+| **Personal Portfolio** | Evidence-first engineering portfolio with an interactive queue-pressure model. | TypeScript · React · deterministic simulation | [Source](https://github.com/GerardZhou/GerardZhou.github.io) · [Live](https://gerardzhou.github.io) |
 
 ## Experience & research
 
