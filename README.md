@@ -69,7 +69,6 @@ I build software across cloud infrastructure, Kubernetes platforms, backend APIs
 ---
 
 <p align="center">
-  Interested in backend, infrastructure, systems, and quantitative engineering opportunities.<br />
   <a href="mailto:gerardzhou07@gmail.com">gerardzhou07@gmail.com</a> ·
   <a href="https://gerardzhou.github.io">gerardzhou.github.io</a> ·
   <a href="https://www.linkedin.com/in/gerard-zhou">LinkedIn</a>
