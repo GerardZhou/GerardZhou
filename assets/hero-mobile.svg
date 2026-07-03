@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="620" viewBox="0 0 680 620" role="img" aria-labelledby="title description">
   <title id="title">Gerard Zhou — Software Engineer</title>
-  <desc id="description">A mobile terminal-inspired header describing work across infrastructure, backend systems, and developer tools.</desc>
+  <desc id="description">A mobile terminal-inspired header describing work across backend systems, cloud infrastructure, and developer tooling.</desc>
   <style>
     :root { color-scheme: light dark; }
     .surface { fill: #f6f8fa; }
@@ -38,12 +38,11 @@
     <text class="sans accent" x="0" y="12" font-size="15" font-weight="700" letter-spacing="2.4">SOFTWARE ENGINEER</text>
     <text class="sans primary" x="0" y="70" font-size="48" font-weight="700" letter-spacing="-1.5">Gerard Zhou</text>
     <text class="sans secondary" x="0" y="108" font-size="20">Computer Science @ UT Austin</text>
-    <text class="sans primary" x="0" y="156" font-size="18" font-weight="600">Infrastructure · Backend Systems</text>
-    <text class="sans primary" x="0" y="184" font-size="18" font-weight="600">Developer Tools</text>
-    <text class="sans secondary" x="0" y="226" font-size="16">Build carefully. Measure honestly. Ship useful systems.</text>
+    <text class="sans primary" x="0" y="156" font-size="18" font-weight="600">Backend Systems · Cloud Infrastructure</text>
+    <text class="sans primary" x="0" y="184" font-size="18" font-weight="600">Developer Tooling</text>
   </g>
 
-  <g transform="translate(28 300)">
+  <g transform="translate(28 262)">
     <rect class="panel" width="624" height="278" rx="14" />
     <circle cx="24" cy="24" r="5" fill="#ff5f56" />
     <circle cx="42" cy="24" r="5" fill="#ffbd2e" />
@@ -53,14 +52,14 @@
 
     <text class="mono green" x="24" y="84" font-size="16">$</text>
     <text class="mono primary" x="48" y="84" font-size="16">inspect --engineer gerard</text>
-    <text class="mono accent" x="24" y="126" font-size="16">infra</text>
-    <text class="mono secondary" x="120" y="126" font-size="16">Kubernetes · Terraform · Cloudflare</text>
+    <rect class="cursor accent" x="300" y="69" width="9" height="18" rx="1" />
+    <text class="mono accent" x="24" y="126" font-size="16">platform</text>
+    <text class="mono secondary" x="144" y="126" font-size="16">Kubernetes · OpenShift · Helm · Operator SDK</text>
     <text class="mono accent" x="24" y="166" font-size="16">backend</text>
-    <text class="mono secondary" x="120" y="166" font-size="16">Go · TypeScript · Python · Node.js</text>
-    <text class="mono accent" x="24" y="206" font-size="16">quality</text>
-    <text class="mono secondary" x="120" y="206" font-size="16">tests · static analysis · release safety</text>
-    <text class="mono amber" x="24" y="248" font-size="16">status</text>
-    <text class="mono primary" x="120" y="248" font-size="16">building reliable systems</text>
-    <rect class="cursor accent" x="397" y="233" width="9" height="18" rx="1" />
+    <text class="mono secondary" x="144" y="166" font-size="16">Go · Python · TypeScript · Node.js · Express</text>
+    <text class="mono accent" x="24" y="206" font-size="16">data</text>
+    <text class="mono secondary" x="144" y="206" font-size="16">PostgreSQL · Redis · MongoDB · SQL</text>
+    <text class="mono accent" x="24" y="246" font-size="16">infra/cloud</text>
+    <text class="mono secondary" x="144" y="246" font-size="16">Terraform · AWS · Cloudflare · Docker</text>
   </g>
 </svg>
