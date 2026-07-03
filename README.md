@@ -1,54 +1,76 @@
-<!-- Gerard Zhou GitHub Stats Summary -->
-<div align="center" style="background:#0d1117; padding: 30px; border-radius: 15px; color: #c9d1d9; max-width: 850px; margin: auto; font-family: 'Segoe UI', sans-serif;">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Gerard Zhou — software engineer building reliable infrastructure, backend systems, and developer tools" />
+  </picture>
+</p>
 
-<h1 style="color: #58a6ff; font-size: 42px; font-weight: bold;">👋 Hi! I'm Gerard Zhou</h1>
+<p align="center">
+  <strong>Computer Science @ UT Austin · Software Engineer</strong><br />
+  Backend systems · cloud infrastructure · developer tooling · systems programming
+</p>
 
-<!-- Skills Section -->
-<div align="center" style="margin: 40px 0; font-size: 20px;">
+<p align="center">
+  <a href="https://gerardzhou.github.io">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gerard-zhou">LinkedIn</a> ·
+  <a href="mailto:gerardzhou07@gmail.com">Email</a>
+</p>
 
-  <!-- Languages & Frameworks -->
-  <h2 style="color: #c9d1d9; font-size: 28px;">🛠️ Languages & Frameworks</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=30" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=30" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=30" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&logoWidth=30" />
-  </p>
+I build software across cloud infrastructure, Kubernetes platforms, backend APIs, and mobile products. My recent work spans release automation at Oracle Cloud Infrastructure, operator development at IBM, and production API systems for Soapbox.
 
-  <!-- Databases -->
-  <h2 style="color: #c9d1d9; font-size: 28px;">🗃️ Databases</h2>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=30" />
-  </p>
+## Technical stack
 
-  <!-- Tools & Platforms -->
-  <h2 style="color: #c9d1d9; font-size: 28px;">⚙️ Tools & Platforms</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/REST_API-000000?style=flat&logo=rest&logoColor=white&logoWidth=30" />
-    <img src="https://img.shields.io/badge/Agile-F05032?style=flat&logo=agile&logoColor=white&logoWidth=30" />
-  </p>
-</div>
+| | |
+|---|---|
+| **Languages** | Python · Go · Java · C++ · JavaScript · TypeScript · Bash · SQL · Terraform/HCL · YAML |
+| **Frameworks & libraries** | React · React Native · Node.js · Express.js · Tailwind CSS · Hono |
+| **Technologies** | Kubernetes · OpenShift · Terraform · Helm · PostgreSQL · MongoDB · REST APIs · AWS · Redis · Cloudflare |
+| **Developer tools** | Linux · Docker · Operator SDK · OLM · Git/GitHub · Bitbucket · Jira · Postman · Figma · Maven |
 
-<!-- GitHub Stats Section -->
-<div align="center" style="margin-top: 50px;">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=GerardZhou&show_icons=true&theme=github_dark" alt="GitHub Stats" width="75%" /> -->
+## Selected engineering
 
-  <img src="https://streak-stats.demolab.com?user=gerardzhou&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="75%" />
+| Project | Engineering focus | Stack | Links |
+|---|---|---|---|
+| **MobilizeUT** | Preference-aware campus routing for students with accessibility needs. | TypeScript · Hono · Cloudflare Workers · D1 · React Native | [Case study](https://gerardzhou.github.io/#work-mobilizeut) |
+| **QRmor** | Mobile QR workflow that checks destinations and summarizes link context before navigation. | React Native · TypeScript · Node.js · Express · VirusTotal · Gemini | [Repository](https://github.com/GerardZhou/QRmor) · [Case study](https://gerardzhou.github.io/#work-qrmor) |
+| **STR-SUMO** | Traffic-simulation testbed for evaluating routing policies and deadline misses. | Python · SUMO · Dijkstra's algorithm · Q-learning | [Repository](https://github.com/GerardZhou/UH-Research-SUMO) |
+| **CNN Image Classifier** | Convolutional model for binary image classification and ML experimentation. | Python · TensorFlow · Jupyter | [Repository](https://github.com/GerardZhou/CNNImageClassifier) |
+| **Real-Time Object Detection** | Webcam object-detection prototype built to explore computer-vision pipelines. | Python · OpenCV | [Repository](https://github.com/GerardZhou/Object-detector) |
+| **Systems Portfolio** | Evidence-first engineering portfolio with an interactive queue-pressure model. | TypeScript · React · deterministic simulation | [Source](https://github.com/GerardZhou/GerardZhou.github.io) · [Live](https://gerardzhou.github.io) |
 
-  
-</div>
+## Experience & research
 
-</div>
+| Organization | Technical scope | Core stack |
+|---|---|---|
+| **Oracle Cloud Infrastructure** · Software Engineer Intern | Designing release automation and isolated test environments for cloud infrastructure changes. | Terraform · CI/CD · infrastructure as code |
+| **IBM** · Software Engineer Intern | Built a Kubernetes operator for enterprise software lifecycle management across OpenShift and Kubernetes. | Go · Operator SDK · CRDs · Helm · OLM · TLS |
+| **Soapbox / Captain Fanplastic** · Software Engineer Intern | Shipped mobile features and 20+ authenticated API endpoints with database, mapping, and traffic controls. | React Native · Node.js · Express · PostgreSQL · Clerk · Redis · Google Maps API |
+| **TRUCE Software** · Software Engineer Intern | Automated validation and expanded tests and static analysis across Python services. | Python · Pytest · AWS Lambda/SQS · Ruff · Mypy |
+| **University of Houston** · Research | Evaluated routing policies in a SUMO traffic-simulation testbed. | Python · SUMO · Dijkstra's algorithm |
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GerardZhou&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GerardZhou&amp;theme=github" alt="Gerard Zhou's GitHub activity summary" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GerardZhou&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GerardZhou&amp;theme=github" alt="Languages across Gerard Zhou's public GitHub repositories" width="48%" />
+  </picture>
+</p>
+
+<sub>Language distribution reflects public repository volume, not proficiency.</sub>
+
+---
+
+<p align="center">
+  Interested in backend, infrastructure, systems, and quantitative engineering opportunities.<br />
+  <a href="mailto:gerardzhou07@gmail.com">gerardzhou07@gmail.com</a> ·
+  <a href="https://gerardzhou.github.io">gerardzhou.github.io</a> ·
+  <a href="https://www.linkedin.com/in/gerard-zhou">LinkedIn</a>
+</p>
