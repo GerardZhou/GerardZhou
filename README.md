@@ -33,12 +33,11 @@ I build software across cloud infrastructure, Kubernetes platforms, backend APIs
 
 | Project | Engineering focus | Stack |
 |---|---|---|
-| **[QRmor](https://github.com/GerardZhou/QRmor)** · [Demo](https://gerardzhou.github.io/#work-qrmor) | Mobile QR workflow that checks destinations and summarizes link context before navigation. | React Native · TypeScript · Node.js · Express · VirusTotal · Gemini |
+| **QRmor** | Mobile QR workflow that checks destinations and summarizes link context before navigation. | React Native · TypeScript · Node.js · Express · VirusTotal · Gemini |
 | **MobilizeUT** | Preference-aware campus routing for students with accessibility needs. | TypeScript · Hono · Cloudflare Workers · D1 · React Native |
-| **[STR-SUMO](https://github.com/GerardZhou/UH-Research-SUMO)** | Traffic-simulation testbed for evaluating routing policies and deadline misses. | Python · SUMO · Dijkstra's algorithm · Q-learning |
-| **[CNN Image Classifier](https://github.com/GerardZhou/CNNImageClassifier)** | Convolutional model for binary image classification and ML experimentation. | Python · TensorFlow · Jupyter |
-| **[Real-Time Object Detection](https://github.com/GerardZhou/Object-detector)** | Webcam object-detection prototype built to explore computer-vision pipelines. | Python · OpenCV |
-| **[Personal Portfolio](https://gerardzhou.github.io)** · [Source](https://github.com/GerardZhou/GerardZhou.github.io) | Evidence-first engineering portfolio with an interactive queue-pressure model. | TypeScript · React · deterministic simulation |
+| **STR-SUMO** | Traffic-simulation testbed for evaluating routing policies and deadline misses. | Python · SUMO · Dijkstra's algorithm · Q-learning |
+| **CNN Image Classifier** | Convolutional model for binary image classification and ML experimentation. | Python · TensorFlow · Jupyter |
+| **Real-Time Object Detection** | Webcam object-detection prototype built to explore computer-vision pipelines. | Python · OpenCV |
 
 ## Experience & research
 
